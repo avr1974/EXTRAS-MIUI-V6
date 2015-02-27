@@ -12,8 +12,8 @@
   "size": 0,
   "updatedTime": 0,
   "platform": 4,
-  "title": "По умолчанию",
-  "description": "Перевод E-Lite Group",
+  "title": "默认",
+  "description": null,
   "author": "MIUI",
   "designer": "MIUI",
   "version": "1.0",
@@ -29,16 +29,98 @@
     "/system/media/theme/.data/preview/default/preview_statusbar_1.jpg",
     "/system/media/theme/.data/preview/default/preview_contact_0.jpg",
     "/system/media/theme/.data/preview/default/preview_mms_0.jpg",
-	"/system/media/theme/.data/preview/default/preview_mms_1.jpg",
-	"/system/media/theme/.data/preview/default/preview_alarmscreen_0.jpg",
+    "/system/media/theme/.data/preview/default/preview_mms_1.jpg",
     "/system/media/theme/.data/preview/default/preview_animation_0.png",
     "/system/media/theme/.data/preview/default/preview_fonts_0.png"
   ],
+  "authors": {
+    "en_US": "MIUI",
+    "zh_CN": "MIUI"
+  },
+  "designers": {
+    "en_US": "MIUI",
+    "zh_CN": "MIUI"
+  },
   "titles": {
+    "en_US": "Default",
     "ru_RU": "По умолчанию",
-	"en_US": "Default",
+	"uk_UK": "За замовчуванням",
+    "fr": "Défaut",
+    "it": "Predefinito",
+    "de": "Standard",
+    "es_ES": "Predeterminado",
+    "hi_IN": "डिफ़ॉल्ट",
+    "pt_BR": "Padrão",
+    "vi_VN": "Mặc định",
+    "tr_TR": "Varsayılan",
+    "th_TH": "ค่าเริ่มต้น",
+    "ms_MY": "Lalai",
+    "in_ID": "Default",
     "zh_CN": "默认",
     "zh_TW": "預設"
+  },
+  "descriptions": {
+    "en_US": null,
+    "zh_CN": null
+  },
+  "builtInThumbnails": {
+    "en_US": [
+      "/system/media/theme/.data/preview/default/en_US_lockscreen_0.jpg"
+    ],
+    "zh_CN": [
+      "/system/media/theme/.data/preview/default/preview_lockscreen_0.jpg"
+    ],
+    "ru_RU": [
+      "/system/media/theme/.data/preview/default/preview_lockscreen_0.jpg"
+    ]
+  },
+  "builtInPreviews": {
+    "en_US": [
+      "/system/media/theme/.data/preview/default/en_US_lockscreen_0.jpg",
+      "/system/media/theme/.data/preview/default/en_US_launcher_0.jpg",
+      "/system/media/theme/.data/preview/default/en_US_launcher_1.jpg",
+      "/system/media/theme/.data/preview/default/en_US_statusbar_0.jpg",
+      "/system/media/theme/.data/preview/default/en_US_statusbar_1.jpg",
+      "/system/media/theme/.data/preview/default/en_US_contact_0.jpg",
+      "/system/media/theme/.data/preview/default/en_US_mms_0.jpg",
+      "/system/media/theme/.data/preview/default/en_US_mms_1.jpg",
+      "/system/media/theme/.data/preview/default/preview_fonts_0.png"
+    ],
+    "zh_CN": [
+      "/system/media/theme/.data/preview/default/preview_lockscreen_0.jpg",
+      "/system/media/theme/.data/preview/default/preview_launcher_0.jpg",
+      "/system/media/theme/.data/preview/default/preview_launcher_1.jpg",
+      "/system/media/theme/.data/preview/default/preview_statusbar_0.jpg",
+      "/system/media/theme/.data/preview/default/preview_statusbar_1.jpg",
+      "/system/media/theme/.data/preview/default/preview_contact_0.jpg",
+      "/system/media/theme/.data/preview/default/preview_mms_0.jpg",
+      "/system/media/theme/.data/preview/default/preview_mms_1.jpg",
+      "/system/media/theme/.data/preview/default/preview_fonts_0.png"
+    ],
+    "ru_RU": [
+      "/system/media/theme/.data/preview/default/preview_lockscreen_0.jpg",
+      "/system/media/theme/.data/preview/default/preview_launcher_0.jpg",
+      "/system/media/theme/.data/preview/default/preview_launcher_1.jpg",
+      "/system/media/theme/.data/preview/default/preview_statusbar_0.jpg",
+      "/system/media/theme/.data/preview/default/preview_statusbar_1.jpg",
+      "/system/media/theme/.data/preview/default/preview_contact_0.jpg",
+      "/system/media/theme/.data/preview/default/preview_mms_0.jpg",
+      "/system/media/theme/.data/preview/default/preview_mms_1.jpg",
+      "/system/media/theme/.data/preview/default/preview_animation_0.png",
+      "/system/media/theme/.data/preview/default/preview_fonts_0.png"
+    ],
+    "uk_UK": [
+      "/system/media/theme/.data/preview/default/preview_lockscreen_0.jpg",
+      "/system/media/theme/.data/preview/default/preview_launcher_0.jpg",
+      "/system/media/theme/.data/preview/default/preview_launcher_1.jpg",
+      "/system/media/theme/.data/preview/default/preview_statusbar_0.jpg",
+      "/system/media/theme/.data/preview/default/preview_statusbar_1.jpg",
+      "/system/media/theme/.data/preview/default/preview_contact_0.jpg",
+      "/system/media/theme/.data/preview/default/preview_mms_0.jpg",
+      "/system/media/theme/.data/preview/default/preview_mms_1.jpg",
+      "/system/media/theme/.data/preview/default/preview_animation_0.png",
+      "/system/media/theme/.data/preview/default/preview_fonts_0.png"
+    ]
   },
   "thumbnails": [],
   "previews": [],
